@@ -1,7 +1,4 @@
-# pandas-challenge
- Pandas homework
-
-## Report that breaks down different information for a data set of purchases made in a video game
+# Report that breaks down different information for a data set of purchases made in a video game
 
 ### Player Count
 
